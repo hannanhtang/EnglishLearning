@@ -8,7 +8,7 @@ github的目录：
 
 
 
-# 0、语法
+# 0.语法
 
 #### 时态
 
@@ -100,11 +100,11 @@ github的目录：
 
 
 
-# 1、单词
+# 1.单词
 
 #### 1.1 真题单词摘抄
 
-conduct                                                                  v实施、执行
+conduct                                                                  v实施.执行
 
 conduct an activity                                           组织一场活动
 
@@ -1721,7 +1721,7 @@ firm
 
  
 
-# 2、短语
+# 2.短语
 
 the other day                                   前几天
 
@@ -1739,7 +1739,7 @@ three days in a row                             连续三天
 
  
 
-# 3、句子
+# 3.句子
 
 #### 单词组句
 
@@ -1922,9 +1922,11 @@ three days in a row                             连续三天
 2. They had to **mortgage** their home to pay the bills.
 3. Byrd's 1928 **expedition** to Antarctica.
 4. He **wrenched** off his sneakers.
-5. 
-
-
+5. Chinese **peasants** farm their own **plots**.
+6. discoveries which had a **profound** effect on many areas of medicine.
+7. After **punching** him on the chin she wound up hitting him over the head.
+8. There was no water in the building, just a **pump** in the courtyard.
+9. This controls the **absorption** of liquids.
 
 
 
@@ -1965,9 +1967,67 @@ has been to
 
 
 
+# 4.每天的单词
+
+- Unit1
+
+  - sack、brook、comet、brittle、spin、jolly、supersonic、dialect、greener pastures、turmoil、Saint、
+  - periodical、obstruction、stairway、awful、mortal、stripe、pond、hinge、
+  - pistol、damp、throughout、concession、petition、feeble、cargo、missile、mobilize、bypass、disastrous、eject、comb、conscientious、offensive、delight、
+
+- Unit2
+
+  - conquest、mob、intimate、dialog(ue)、transit、adverse、deficient、
+  - herd、indignant、tender、thereafter、warehouse、straw、complement、realm、resolute、sole、estate、
+  - slam、weep、inferior、digest、amplifier、pebble、scarce、moisture、loudspeaker、ampere、aggravate、symphony、
+
+- Unit3
+
+  - microbe、synthetic、assessment、blunder、shelf、embark、friction、rake、quart、yeast、league、
+  - subtle、peel、bend、negate、disperse、conceal、submerge、converge、Skyscraper、remedy、renovate、
+  - dumpy、spherical、timetable、longing、humble、distress、pepper、cafeteria、bulk、sophomore、regime、brutal、puppet、tame、disgrace、gasp、fury、vanity、contaminate、chubby、
+
+- Unit4
+
+  - furious、brake、staircase、penetrate、colonel、lad、pamphlet、senator、fraction、fracture、minus、sting、hut、agony、intuition、
+  - incorporate、tribal、stale、blast、veteran、scent、restless、compatible、delicate、
+  - crisp、ivory、extent、stony、queer、invariable、bolt、screw、
+
+- Unit5
+
+  - deplore、inertia、feminine、depart、materialism、verdict、revolt、dubious、rotten、allegiance、comprise、prominent、
+  - valve、glitter、headquarters、oath、spray、flare、sauce、devotion、overview、portable、scrap、butcher、
+  - lid、gauge、transient、porch、ambiguous、deliver、wrench、bakery、sneakers、prohibition、shutter、liquor、bush、endorse、expedition、mortgage、extraction、
+
+- Unit6
+
+  - peasant、profound、punch、fright、clumsy、freelance、chorus、sulfur、denial( n.)、plural、pump、slit、absorption、
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
-# 4、 马思瑞的口语
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 5.马思瑞的口语
 
 - 带`er`结尾的单词，前面的辅音会被吞掉；如 center $\to$ cener、winter $\to$ winer
 - /ə/与/ʌ/之间发音没有区别，唯一的区别在于在句子中是否重读；如 about  /ə'baʊt/  、under /'ʌndɚ/
