@@ -1906,9 +1906,23 @@ three days in a row                             连续三天
 
 
 
+新计划第1天：
+
+1. 
+2. The Palace **glittered** with lights.
+3. The building is the **headquarters** of the family firm.
+4. The **oath** of office I take today is an **oath** of allegiance to all Americans.
+5. The moon was casting a rainbow through the **spray** from the waterfall.
 
 
 
+新计划第2天：
+
+1. In most cases, pain is **transient**.
+2. They had to **mortgage** their home to pay the bills.
+3. Byrd's 1928 **expedition** to Antarctica.
+4. He **wrenched** off his sneakers.
+5. 
 
 
 
