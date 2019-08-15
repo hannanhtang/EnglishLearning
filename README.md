@@ -1741,6 +1741,19 @@ three days in a row                             连续三天
 
 # 3.句子
 
+#### 日常用句
+
+1. how did it go today?					今天过得如何？
+
+
+
+4、问题
+
+1. could、can之间的区别
+2. 过去式、完成时、have done 之间的区别、虚拟语气、
+
+has been to 
+
 #### 单词组句
 
 1. None of my business.
@@ -1942,24 +1955,7 @@ three days in a row                             连续三天
 
 
 
-#### 日常用句
 
-1. how did it go today?					今天过得如何？
-
-
-
-
-
-
-
-
-
-4、问题
-
-1. could、can之间的区别
-2. 过去式、完成时、have done 之间的区别、虚拟语气、
-
-has been to 
 
 
 
