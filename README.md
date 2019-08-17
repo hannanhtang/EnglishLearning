@@ -1524,6 +1524,8 @@ intend                                        v. 计划、打算、
 
 intent                                         a. 坚决的、专注的
 
+intentional								a. 故意的、
+
 4）紧张
 
 tense                                          a. 紧张的、焦虑的、
@@ -1943,7 +1945,12 @@ has been to
 
 
 
+新计划第4天：
 
+1. Many publishers have simply become far too **slack**.
+2. He had **leapt** from a window in the building and escaped.
+3. Very **vigorous** exercise can increase the risk of heart attacks.
+4. 
 
 
 
@@ -1998,6 +2005,12 @@ has been to
 - Unit6
 
   - peasant、profound、punch、fright、clumsy、freelance、chorus、sulfur、denial( n.)、plural、pump、slit、absorption、
+  - intentional、kindle、thermometer、steer、tribute、vinegar、illuminate、groan、doom、pit、
+  - rug、slack、lieutenant、Pacific、leap、sacred、vigorous、kettle、odor、assimilate、electrician、swan、zealous、subordinate、surrender、crow、soak、pardon、tutor、hose、brace、
+  
+
+  
+  
   
   
   
