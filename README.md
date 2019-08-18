@@ -2,9 +2,9 @@
 
 github的目录：
 
-[3、句子](#3句子)
+[3、句子](#3句子)；
 
-[4、 马思瑞的口语](#4-马思瑞的口语)
+[4、 马思瑞的口语](#4-马思瑞的口语)；
 
 
 
@@ -1954,6 +1954,20 @@ has been to
 
 
 
+Unit7:
+
+1. This **enclosure** was so vast that the outermost wall could hardly be seen.
+2. Refer to the foregoing figures.（涉及到前面所讲的数字）
+3. Engineers found the structure had been **corroded** by **moisture**.
+4. The people **swayed** back and forth with arms linked.
+5. There were a hundred or so hotels **in the vicinity of** the railway station.
+6. She had missed the **glorious** blooms of the Mediterranean spring.
+7. Fiona and Alastair have become **patrons** of the National Missing Person's Helpline.
+8. Since childhood, her life has **revolved** around tennis.
+9. Britain **imposed** fines on airlines which bring in passengers without proper papers.
+10. The conditions **imposed** on volunteers were **stringent**.
+11. 
+
 
 
 
@@ -2007,19 +2021,14 @@ has been to
   - peasant、profound、punch、fright、clumsy、freelance、chorus、sulfur、denial( n.)、plural、pump、slit、absorption、
   - intentional、kindle、thermometer、steer、tribute、vinegar、illuminate、groan、doom、pit、
   - rug、slack、lieutenant、Pacific、leap、sacred、vigorous、kettle、odor、assimilate、electrician、swan、zealous、subordinate、surrender、crow、soak、pardon、tutor、hose、brace、
+
+- Unit7
+  - enclosure、cassette、gown、foregoing、niece、soluble、corrode、
+
   
 
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
   
 
 
