@@ -2372,7 +2372,10 @@ Unit8：
 1. The East and the West can work together for their **mutual** benefit and progress.
 2. He's asking you to look at both sides of the case and come to a **rational** decision.
 3. It's difficult to **reconcile** the demands of my job and the desire to be a good father.
-4. 
+4. the political situation in the Korean **peninsula**.
+5. Their attitude **irritates** me.
+6. If you can make the last 10 seconds exciting, you can **deceive** your audience into thinking it's been like that all along.
+7. 
 
 
 
