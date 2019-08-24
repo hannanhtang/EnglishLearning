@@ -16,6 +16,401 @@ github的目录：
 
 
 
+- **动词的十二类时态**
+
+我们将三类时间和四类状态组合，可得到下表所示的十二类时态。
+
+![img](assets/v2-45d9c3d25ae89a26b0fd5953a72ba262_hd.png)
+
+接下来将分别介绍这十二类时态的用法，介绍的顺序为：一般式、进行式、完成式、完成进行式。
+
+
+
+![img](assets/v2-9bb72bdccfcd3c154d14809511fee59e_hd.jpg)
+
+
+
+- **一般式**
+
+**一般式常用来表示经常发生的动作**。
+
+
+
+**1. 一般现在时（do）**
+
+除了表示经常发生的动作外，一般现在时还可以用来表示客观事实。
+
+> Light **travels** more quickly than sound. 
+> （光传播的速度比声音快。）
+
+
+
+
+
+**2. 一般过去时（did）**
+
+一般过去时表示某个过去的时间点所发生的动作。
+
+> ① I **used** the pen before. 
+> （我之前用过这支笔。）
+
+将句①表述到时间轴中，我们用**“空心圆点”**来表示一般式，如下图所示：
+
+![img](assets/v2-1bc909689df765e498ce7cc53d15254d_hd.png)
+
+上图表示“use the pen”这个动作发生在过去的某个时间点。
+
+
+
+
+
+**3. 一般将来时（will do）**
+
+一般将来时表示某个将来的时间点会发生的动作。
+
+> ② Phoebe **will live** in a modern city. 
+> （Phoebe将在大城市生活。）
+
+将句②表述到时间轴中，得到：
+
+![img](assets/v2-02ab3a6a1cb54be0320f6d5d74dad25c_hd.png)
+
+上图表示“live in a modern city”这个动作会发生在某个将来的时间点。
+
+
+
+![img](https://pic3.zhimg.com/80/v2-9bb72bdccfcd3c154d14809511fee59e_hd.jpg)
+
+
+
+- **进行式**
+
+**进行式用来表示某个时刻或时间段正在进行的动作**。
+
+
+
+**4. 现在进行时（am/is/are doing）**
+
+现在进行时表示现在正在进行的动作。
+
+> ③ I **am playing** tennis now. 
+> （我正在打网球。）
+
+将句③表述到时间轴中，由于“正在进行的动作”必定会延续一段时间，所以我们用**“灰色矩形”**来表示进行时，如下图：
+
+
+
+![img](assets/v2-dd5a82eeb7701bbc29e76401a56839c6_hd.png)
+
+
+
+由上图所示，现在（now）这个时间点正处于表示“I am playing tennis”的灰色矩形里面，所以我们可以说“I am playing tennis now”。
+
+
+
+
+
+**5. 过去进行时（was/were doing）**
+
+过去进行时表示在某个过去的时间点或时间段正在进行的动作。
+
+> ④ They **were watching** TV when a stranger suddenly rushed in. 
+> （当一个陌生人突然冲进来的时候，他们正在看电视。）
+
+将句④表述到时间轴中，我们同样用**“灰色矩形”**来表示此时态：
+
+
+
+![img](assets/v2-d4c75b94a5716c9d32e6ab24e3c3ba48_hd.png)
+
+
+
+由上图所示，我们用空心圆点表示“a stranger suddenly rushed in”这个过去时间点，其正处于表示“they were watching TV”的灰色矩形里面，两者组合便得到了句④。
+
+
+
+
+
+**6. 将来进行时（will be doing）**
+
+将来进行时表示在某个将来的时间点或时间段正在进行的动作，这类动作一般是事先计划好的，而且一定会发生的。
+
+> ⑤ We **will be flying** at 30 000 feet in five minutes. 
+> （五分钟后，我们就会翱翔在三万英尺的高空了。）
+
+将句⑤表述到时间轴中，可以得到：
+
+
+
+![img](assets/v2-9524620c3b63b8401810d180b84d71ad_hd.png)
+
+
+
+由上图所示，我们用空心圆点表示“in five minutes”这个将来时间点，其正处于表示“We will be flying at 30 000 feet”的灰色矩形里面，两者组合便得到了句⑤。
+
+
+
+![img](https://pic3.zhimg.com/80/v2-9bb72bdccfcd3c154d14809511fee59e_hd.jpg)
+
+
+
+- **完成式**
+
+**完成式表示：站在某一时间点，对这个时间点之前发生的动作做一个总结。**
+
+
+
+**7. 现在完成时（have/has done）**
+
+现在完成时表示处于现在这个时间点，对这个时间点之前发生的一个或一系列动作的总结。
+
+> ⑥ I **have used** the pen only three times. 
+> （这支笔我只用过三次。）
+
+将句⑥表述到时间轴中，因为完成式是对之前发生事情的一个总结，所以我们用**“向左的方括号”**来表示完成式，表示**“至此为止，之前发生的一系列动作是这样的结果”**。
+
+
+
+![img](assets/v2-3aef6e0936c28716256c9e59e0387d03_hd.png)
+
+
+
+由上图所示，因为“use the pen”这个动作在过去发生了三次，所以我们处于现在（now）这个时间点来总结这三个动作，于是便得到了“I have used the pen only three times”的结论。
+
+
+
+
+
+**8. 过去完成时（had done）**
+
+过去完成时表示站在某个过去的时间点，对这个时间点之前发生的一个或一系列动作的总结。
+
+> ⑦ When they reached there, the ship **had set** off. 
+> （当他们到达那里的时候，船已经开了。）
+
+将句⑦表述到时间轴中，我们同样用**“向左的方括号”**表示该时态：
+
+
+
+![img](assets/v2-b55257c36a2bccd95451c80d0d94b866_hd.png)
+
+
+
+由上图所示，该句相当于站在“they reached there”这个过去的时间点，对这个时间点之前发生的动作“the ship set off”做一个总结，于是便得到了“the ship had set off”的结论。
+
+
+
+
+
+**9. 将来完成时（will have done）**
+
+将来完成时表示站在某个将来的时间点，对这个时间点之前的一个或一系列动作的总结。
+
+> ⑧ By July, Michael **will have got** two college degrees. 
+> （到七月份，Michael就已经拿到两个大学学位了。）
+
+将句⑧表述到时间轴中，得到：
+
+
+
+![img](assets/v2-ca2ef09d546268a26c8370e4b31dd260_hd.png)
+
+
+
+站在现在（now）这个时间点来看，或许Michael已经拿到了两个学位、或许她拿到了一个学位、也或许她还一个学位都没有拿到。其实都不重要，重要的是将来完成时所总结的内容：“到七月份，她就已经拿到两个大学学位了。”
+
+
+
+
+
+特别需要注意的是，完成时态都是站在某个时间点，对这个时间点之前发生的动作做一个总结。所以，如果句子的上下文中没有明确的表示出这个时间点，就不能使用完成式。例如：
+
+> The ship had set off. （×） 
+> Michael will have got two college degrees. （×）
+
+
+
+![img](https://pic3.zhimg.com/80/v2-9bb72bdccfcd3c154d14809511fee59e_hd.jpg)
+
+
+
+- **完成进行式**
+
+**完成进行式是完成式与进行式的结合，表示对一个正在进行的动作的总结。**
+
+
+
+**10. 现在完成进行时（have/has been doing）**
+
+现在完成进行时表示对一个现在正在进行动作的总结。例如：
+
+> ⑨ Tom **has been playing** football for two hours.
+>  （Tom已经踢了两个小时的足球了。）
+
+将句⑨表述到时间轴中，用**“灰色矩形”**来表示进行时，而用**“向左的方括号”**来表示完成时，可以得到：
+
+
+
+![img](assets/v2-0b4bb48af684f685828888cc411fd830_hd.png)
+
+
+
+如上图所示，我们站在现在（now）这个时间点，对当时正在进行的动 作“playing football”展开总结，于是得到了“Tom has been playing football for two hours”的结论。
+
+
+
+
+
+**11. 过去完成进行时（had been doing）**
+
+过去完成进行时表示站在某个过去的时间点，对这个时间点正在进行动作的总结。
+
+> ⑩ I **had been cleaning** my room the whole morning when she came. 
+> （当他来的时候，我已经打扫了一早上的房间了。)
+
+将句⑩表述到时间轴中，得到：
+
+
+
+![img](assets/v2-94f32f2a45a1e5948001c7cc1f35da7b_hd.png)
+
+
+
+如上图所示，我们站在“when she came”这个过去的时间点，并对这个时间点正在进行的动作“cleaning my room”做一个总结，于是就得到了“I had been cleaning my room the whole morning”的结论。
+
+
+
+
+
+**12. 将来完成进行时（will have been doing）**
+
+将来完成进行时表示站在某个将来的时间点，对这个时间点正在进行动作的总结。
+
+> ⑪ I **will have been doing** the drawing for five hour at 11 pm. 
+> （到晚上11点，我就连续画图五个小时了。）
+
+将句⑪表述到时间轴中，得到：
+
+
+
+![img](assets/v2-fac67aae9c8b1162ec638e4cc7d95096_hd.png)
+
+
+
+如上图所示，我们站在一个将来时间点11 pm，对这个时间点正在进行的动作“doing the drawing”做一个总结，于是就得到了“I will have been doing the drawing for five hour”的结论。
+
+
+
+![img](https://pic3.zhimg.com/80/v2-9bb72bdccfcd3c154d14809511fee59e_hd.jpg)
+
+
+
+- **过去将来时**
+
+至此为止，我们学习了共十二类时态的用法。
+
+实际上，动词还能够表示另一类时间（**过去将来**），这类时间对应的是下表所示的四类时态——即一般过去将来时、过去将来进行时、过去将来完成时、过去将来完成进行时。
+
+
+
+![img](assets/v2-7941a5802eb2452de9a8590db1ae5b09_hd.png)
+
+
+
+
+
+那为什么将这类时态提出来单独介绍呢？
+
+**因为这类时态的用法与将来时的用法基本完全相同。**唯一不同的地方是：**将来时**表示的是从现在（now）这个时间点看将来要发生的动作，而**过去将来时**表示从过去（past）的某个时间点看将来要发生的动作。如下图所示：
+
+
+
+![img](assets/v2-4ec84336bc6b6dbc0be126a22e490ab7_hd.png)
+
+
+
+所以，**对于过去的将来 = 某个过去时间点到现在的这段时间 + 对于现在的将来**。
+
+
+
+
+
+**13. 一般过去将来时（would do）**
+
+一般过去将来时表示：站在某个过去的时间点看将会发生的动作。
+
+> ⑫ He told me that he **would go** abroad. 
+> （他之前告诉我他会出国。）
+
+将句⑫表述到时间轴中，得到：
+
+
+
+![img](assets/v2-aedf07316cf2b524f6b5c3f5d1c13945_hd.png)
+
+
+
+从时间轴上看，这个动作可能发生在“when he told me”至现在（now）这一段区域，也有可能发生在now之后的那一段区域。也就是说，对于now这个时间点来说，“go abroad”可能已经发生了，也可能将来才会发生。
+
+
+
+大家可以发现，**过去将来时**和**将来时**两者表现在时间轴中是极其相似的，所以剩下的三种时态就只给出例句，就不画图了。（也实在是画不动了……）
+
+
+
+
+
+**14. 过去将来进行时（would be doing）**
+
+过去将来进行时表示：站在某个过去的时间点，从这个时间点看一个之后的时间点（或时间段）正在发生的动作。
+
+> He knew that I **would be living** in China next month. 
+> （他就知道我接下来一个月就会在中国生活了。）
+
+
+
+
+
+**15. 过去将来完成时（would have done）**
+
+过去将来完成时表示：站在某个过去的时间点，对一个之后的时间点已经发生了的动作做总结。
+
+> He said he **would have left** for London by the end of next month. 
+> （他说第二个月末她肯定已经动身去伦敦了。）
+
+
+
+
+
+**16. 过去将来完成进行时（would have been doing）**
+
+过去将来完成时表示：站在过去的某个时间点，对一个之后的时间点正在发生的动作做总结。
+
+> I knew by July he **would have been working** there for 30 years. 
+> （我知道到七月他就在那里工作整整30年了。）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### 虚拟语气
 
 **虚拟语气**是一种表示假设状态的句型，是一种特殊的动词形式；表示所说的话不是一个事实，而只是说话者的一种假设，主观愿望，建议，猜测或不大可能实现的空想。
@@ -1746,6 +2141,7 @@ three days in a row                             连续三天
 #### 日常用句
 
 1. how did it go today?					今天过得如何？
+2. I'll see you **in a bit**.                      待会见.
 
 
 
@@ -1966,7 +2362,21 @@ Unit7:
 8. Since childhood, her life has **revolved** around tennis.
 9. Britain **imposed** fines on airlines which bring in passengers without proper papers.
 10. The conditions **imposed** on volunteers were **stringent**.
-11. 
+11. Belief in the **utility** of higher education is shared by students nationwide.
+12. The raw material for the tyre is a **by-product** of petrol refining.
+
+
+
+Unit8：
+
+1. The East and the West can work together for their **mutual** benefit and progress.
+2. He's asking you to look at both sides of the case and come to a **rational** decision.
+3. It's difficult to **reconcile** the demands of my job and the desire to be a good father.
+4. 
+
+
+
+
 
 
 
@@ -1991,39 +2401,40 @@ Unit7:
   - sack、brook、comet、brittle、spin、jolly、supersonic、dialect、greener pastures、turmoil、Saint、
   - periodical、obstruction、stairway、awful、mortal、stripe、pond、hinge、
   - pistol、damp、throughout、concession、petition、feeble、cargo、missile、mobilize、bypass、disastrous、eject、comb、conscientious、offensive、delight、
-
 - Unit2
 
   - conquest、mob、intimate、dialog(ue)、transit、adverse、deficient、
   - herd、indignant、tender、thereafter、warehouse、straw、complement、realm、resolute、sole、estate、
   - slam、weep、inferior、digest、amplifier、pebble、scarce、moisture、loudspeaker、ampere、aggravate、symphony、
-
 - Unit3
 
   - microbe、synthetic、assessment、blunder、shelf、embark、friction、rake、quart、yeast、league、
   - subtle、peel、bend、negate、disperse、conceal、submerge、converge、Skyscraper、remedy、renovate、
   - dumpy、spherical、timetable、longing、humble、distress、pepper、cafeteria、bulk、sophomore、regime、brutal、puppet、tame、disgrace、gasp、fury、vanity、contaminate、chubby、
-
 - Unit4
 
   - furious、brake、staircase、penetrate、colonel、lad、pamphlet、senator、fraction、fracture、minus、sting、hut、agony、intuition、
   - incorporate、tribal、stale、blast、veteran、scent、restless、compatible、delicate、
   - crisp、ivory、extent、stony、queer、invariable、bolt、screw、
-
 - Unit5
 
   - deplore、inertia、feminine、depart、materialism、verdict、revolt、dubious、rotten、allegiance、comprise、prominent、
   - valve、glitter、headquarters、oath、spray、flare、sauce、devotion、overview、portable、scrap、butcher、
   - lid、gauge、transient、porch、ambiguous、deliver、wrench、bakery、sneakers、prohibition、shutter、liquor、bush、endorse、expedition、mortgage、extraction、
-
 - Unit6
 
   - peasant、profound、punch、fright、clumsy、freelance、chorus、sulfur、denial( n.)、plural、pump、slit、absorption、
   - intentional、kindle、thermometer、steer、tribute、vinegar、illuminate、groan、doom、pit、
   - rug、slack、lieutenant、Pacific、leap、sacred、vigorous、kettle、odor、assimilate、electrician、swan、zealous、subordinate、surrender、crow、soak、pardon、tutor、hose、brace、
-
 - Unit7
   - enclosure、cassette、gown、foregoing、niece、soluble、corrode、
+  - sway、vicinity、glorious、wholly、patron、reproach、idle、solidify、wagon、carpenter、revolve、impose、speculate、
+  - endeavour、defer、symmetry、byproduct、grease、peanut、distinction、defy、descent、crush、
+
+- Unit8
+  - freshen、gracious（上级可爱又亲切）、synthesis、reciprocal、constitute、incur、rational、exceedingly、satellite、racket、reconcile、
+
+
 
   
 
