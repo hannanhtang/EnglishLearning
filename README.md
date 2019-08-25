@@ -2,15 +2,407 @@
 
 github的目录：
 
-[3、句子](#3句子)；
+1.音变2.语法2.1时态2.2虚拟语气3.单词1.1 真题单词摘抄1.2 近似词辨析4.短语5.句子日常用句单词组句6.每天的单词7.马思瑞的口语
 
-[4、 马思瑞的口语](#4-马思瑞的口语)；
+[1.音变](#1.音变).
+
+[2.语法](#2.语法).
+
+[3.单词](#3.单词).
+
+[4.短语](#4.短语).
+
+[5.句子](#5.句子).
+
+[6.每天的单词](#6.每天的单词).
+
+[7.马思瑞的口语](#7.马思瑞的口语).
+
+# 1.音变
+
+音变主要有连读、失音、弱化、浊化、同化、重音、缩度等形式。这些形式的产生可以归结为一个原则，即“Economy”——“经济”原则，或称为“省力”原则。 
+
+ 
+
+**1.连读**
+
+(1) 词尾辅音 + 词首元音
+
+My name is.....
+
+Take a look at it.....
+
+Not at all.
+
+Can I help you?
+
+Time is up.
+
+Good idea
+
+Take it easy.
+
+Finish it in a minute if it is not difficult.
+
+Try to finish the job as soon as possible.
+
+(2) 词尾元音 + 词首元音
+
+Thank you for coming to see me off
+
+I hope you will enjoy it
+
+Hurry up
+
+Don’t worry about it
+
+I can do it
+
+Go on with your work
+
+How often do you swim?
+
+How about seeing a film this evening
+
+**2.失去爆破**
+
+词尾爆破音（b p t g k ) + 词首爆破音（b p t g k )
+
+Have a good time.
+
+A big cake
+
+Take care
+
+Please sit down
+
+What do you mean
+
+Ask bob to sit behind me
+
+No need to finish it now.
+
+A good cook could cook as many cookies as a good cook who could cook cookies
+
+**3.不完全爆破**
+
+(1 )词尾摩擦音 + 摩擦音
+
+I need some more money
+
+What would you advise me to do?
+
+You must pay in advance
+
+(2) 词尾爆破音 + 爆破音
+
+That joke
+
+You shouldn’t treat women like object
+
+Can I take a picture with you?
+
+**4.** **浊化**
+
+ (1) 元音 + 清辅音 + 元音
+
+City letter water pretty citizen.
+
+The sooner, the better
+
+I think you’d better see a doctor
+
+Your story just doesn’t hold water
+
+What’s the matter with you?
+
+Stay out of this matter
+
+(2) 元音 + T + L
+
+I have a little problem
+
+(3) 连读后的浊化
+
+I’ll think about it
+
+Can I have a look at it
+
+Not all
+
+Say it again
+
+**5.同化**
+
+第一大规律：相互同化
+
+(1) t + j →t
+
+Nice to meet you
+
+I know a lot about you
+
+I know you can speak good english
+
+Take care that you dont spoil your new clothes
+
+How about you
+
+(2) d+j-
+
+Could you tell me where the bus stop is
+
+Did you finish your homework yesterday
+
+Would you show me the bathroom
+
+(3)s+j-
+
+God bless you
+
+Baby i miss you everyday
+
+Now look what a mess you have done
+
+(4)z+j-
+
+How is your boyfriend
+
+Hows your family
+
+第二大规律：顺向同化
+
+（1）名词变复数：i want to buy a lot of english books
+
+（2）动词变第三人称单数：she works in zaidong education
+
+（3）动词变过去式或过去分词;she looked very blue yesterday
+
+（4）T+s :all of the students stop reading
+
+（5）D+s:my friends in america send me a message that the economic forecast is pleasant there
+
+第三大规律：逆向同化
+
+（1）before i eat dinner,  i read the newspaper for a while
+
+（2）He is not the man he used to be
+
+（3）Dont worry , you get used to it in no time
+
+（4）You have to get off here
+
+（5）That is all he has to do
+
+（6）I had to go and talk with jim
+
+**6,** **异化**
+
+1), sp+元音：how do you spend your leisure time
+
+Action speak louder than words
+
+2), sk+元音:im so scared
+
+If i were a millionaire i would start a school
+
+3) st+元音 if you are ready, you may start your work
+
+Would you like some steak?
+
+4) str+元音:the work is still strange to him
+
+He struck me with a stick
+
+**7,** **缩读**
+
+(1) want to ----wanna what do you wanna do
+
+(2) Be going to -----be gonna im gonna study abroad
+
+(3) Have got to --gotta i gotta see you
+
+(4)Because ----cause i broke up with my boyfriend cause i dont like him
+
+(5)Give me ----gimme gimme that book
+
+(6)Out of -----outta get outta here
+
+(7)You ---ya how are ya
+
+(8)Are you -- where are you going
+
+(9)And ---n youn me rockn roll
+
+(10)What is the ---whatsa whatsa matter
+
+(11)Old ---ol look at that olman
+
+(12)Sure--sher are you sher
+
+(13)Goodbye----gbye im leaving gbye
+
+(14)What are you wachya/wacha wachya doing here
+
+(15)Ing---in we are talikin about the education in china
+
+(16)Let me -- lemme give you an example
+
+**8,** **略读**
+
+第一大规律：词尾的爆破
+
+Very good
+
+Im a student
+
+Never give up
+
+第二大规律：意群结尾的爆破音
+
+I could cause i believe i could
+
+Mike likes to write by the nice bright light at night I think you shouldnt push him too hard
+
+**9,** **被击穿的H音**
+
+（1）him--im dont tell im
+
+（2）Her--er please call er
+
+实例操作
+
+Hey jude
+
+**10,** **弱读**
+
+弱读三大规律：
+
+第一大规律：把元音弱化为
+
+Ladies and gentlemen
+
+You and me
+
+I have an english teacher
+
+I’ll be back in half an hour
+
+My wife and i are very happy
+
+第二大规律：弱化为同类音长音---短音
+
+Me give me a sec to change film
+
+We why don’t we go out for a walk
+
+She she has an accent
+
+第三大规律：弱到不发音
+
+Difficult
+
+Intention
+
+**11,** **鼻腔爆破** **Good night**
+
+Good morning
+
+Let me help you
+
+Her goodness was apparent to everyone I’m a student
+
+**12,** **舌边爆破**
+
+I have been very busy lately
+
+Where have you been lately
+
+I met the old lady in the shop
+
+He slept badly
+
+His foot was badly hurt
+
+**13,** **同类音消失**
+
+What does the man mean
+
+This shop is so romantic
+
+How was the party last night
+
+These clothes are so beautiful
+
+**14, t音的消失（杀手音n）**
+
+Internet i enjoy surfing on the internet
+
+Twenty i take 20 thousand dollars with me International be an International chinese
+
+**15, r音的连读、**
+
+For example
+
+My friend comes from a country far away I will keep my promise forever
+
+There is ten minutes left
+
+There are over 600,000 kinds of insects in the world
+
+**16,** **辅音连缀**
+
+S+m he’s a smart businessman
+
+S+n his shirt is as white as snow
+
+S+l did you sleep well
+
+S+w no sweet without sweat
+
+P+l what’s your plan for the future
+
+P+r the price of that house is high
+
+G+l i am very glad that you could come
+
+S+p+r the rumor quickly spread through
+
+S+t+r he was a strict farther
+
+**17,** **情态动词完成时过去将来时缩写**
+
+Could have ----could’a tom could’a finished homework
+
+Must have------must’a i must’a very strange experience
+
+Should have ----should’a i should have done it
+
+Would have -----would’a they would’a come to the meeting if he had known about it
+
+**18, of不规则缩读**
+
+Kind of ---kinda that is one kind battle in this war
+
+A lot of ---a lotta this week we are getting a lotta brand new information
+
+Lots of --lotsa they all contain lotsa water
+
+Sort of----sorta i sorta like’m
+
+Bunch of ----buncha the intent is for a buncha lawyers to make money
+
+Because of --becausea it’s because of that theoretical possibility that some people think it may be better to change
+
+ 
 
 
 
-# 0.语法
 
-#### 时态
+
+# 2.语法
+
+## 2.1时态
 
 纵轴我们可以分为四个时间段：现在，过去，将来，过去将来；横轴可以分为四个状态：一般，进行，完成，完成进行；这便是时和态，一起构成了英语中的16种时态；
 
@@ -54,7 +446,7 @@ github的目录：
 > ① I **used** the pen before. 
 > （我之前用过这支笔。）
 
-将句①表述到时间轴中，我们用**“空心圆点”**来表示一般式，如下图所示：
+将句①表述到时间轴中，我们用 **“空心圆点”** 来表示一般式，如下图所示：
 
 ![img](assets/v2-1bc909689df765e498ce7cc53d15254d_hd.png)
 
@@ -411,7 +803,7 @@ github的目录：
 
 
 
-#### 虚拟语气
+## 2.2虚拟语气
 
 **虚拟语气**是一种表示假设状态的句型，是一种特殊的动词形式；表示所说的话不是一个事实，而只是说话者的一种假设，主观愿望，建议，猜测或不大可能实现的空想。
 
@@ -495,7 +887,7 @@ github的目录：
 
 
 
-# 1.单词
+# 3.单词
 
 #### 1.1 真题单词摘抄
 
@@ -2118,7 +2510,7 @@ firm
 
  
 
-# 2.短语
+# 4.短语
 
 the other day                                   前几天
 
@@ -2136,7 +2528,7 @@ three days in a row                             连续三天
 
  
 
-# 3.句子
+# 5.句子
 
 #### 日常用句
 
@@ -2375,7 +2767,16 @@ Unit8：
 4. the political situation in the Korean **peninsula**.
 5. Their attitude **irritates** me.
 6. If you can make the last 10 seconds exciting, you can **deceive** your audience into thinking it's been like that all along.
-7. 
+7. Riot police broke up a **demonstration** by students.
+8. European farmers are planning a massive **demonstration** against farm **subsidy** cuts.
+9. I spent the **remainder** of the day feeling terrible.
+10. The project looks at how we could **be more effective in** encouraging students to enter teacher training.
+11. With today's more **efficient** contraception women can plan their families and careers.
+12. if anybody needs me, i'll be at the hardware **ore** buying chains.（如果有人找我 告诉他我去五金店买铁链了。）
+13. it's so **humid** and **damp** in here.
+14. The death penalty was never **restored**.
+15. The army has recently been brought in to **restore** order.
+16. 
 
 
 
@@ -2397,7 +2798,7 @@ Unit8：
 
 
 
-# 4.每天的单词
+# 6.每天的单词
 
 - Unit1
 
@@ -2435,7 +2836,9 @@ Unit8：
   - endeavour、defer、symmetry、byproduct、grease、peanut、distinction、defy、descent、crush、
 
 - Unit8
-  - freshen、gracious（上级可爱又亲切）、synthesis、reciprocal、constitute、incur、rational、exceedingly、satellite、racket、reconcile、
+  - freshen、gracious（【上级】可爱又亲切）、synthesis、reciprocal、constitute、incur、rational、exceedingly、satellite、racket、reconcile、
+  - Soviet、bride、peninsula、pint(/paɪnt/)、diabetes、cattle、penicillin、irritate、deceive、
+  - adverb、demonstration、subsidy、allowance、remainder、quiver、ore、nostalgic（/nə'stældʒɪk/怀旧的）、humid、raid、restore、
 
 
 
@@ -2459,7 +2862,7 @@ Unit8：
 
 
 
-# 5.马思瑞的口语
+# 7.马思瑞的口语
 
 - 带`er`结尾的单词，前面的辅音会被吞掉；如 center $\to$ cener、winter $\to$ winer
 - /ə/与/ʌ/之间发音没有区别，唯一的区别在于在句子中是否重读；如 about  /ə'baʊt/  、under /'ʌndɚ/
