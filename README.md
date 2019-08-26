@@ -2764,30 +2764,35 @@ Unit8：
 1. The East and the West can work together for their **mutual** benefit and progress.
 2. He's asking you to look at both sides of the case and come to a **rational** decision.
 3. It's difficult to **reconcile** the demands of my job and the desire to be a good father.
-4. the political situation in the Korean **peninsula**.
-5. Their attitude **irritates** me.
-6. If you can make the last 10 seconds exciting, you can **deceive** your audience into thinking it's been like that all along.
-7. Riot police broke up a **demonstration** by students.
-8. European farmers are planning a massive **demonstration** against farm **subsidy** cuts.
-9. I spent the **remainder** of the day feeling terrible.
-10. The project looks at how we could **be more effective in** encouraging students to enter teacher training.
-11. With today's more **efficient** contraception women can plan their families and careers.
-12. if anybody needs me, i'll be at the hardware **ore** buying chains.（如果有人找我 告诉他我去五金店买铁链了。）
-13. it's so **humid** and **damp** in here.
-14. The death penalty was never **restored**.
-15. The army has recently been brought in to **restore** order.
-16. 
+4. Encourage your child to reach a **compromise** between what he wants and what you want.
+5. the political situation in the Korean **peninsula**.
+6. Their attitude **irritates** me.
+7. If you can make the last 10 seconds exciting, you can **deceive** your audience into thinking it's been like that all along.
+8. Riot police broke up a **demonstration** by students.
+9. European farmers are planning a massive **demonstration** against farm **subsidy** cuts.
+10. I spent the **remainder** of the day feeling terrible.
+11. The project looks at how we could **be more effective in** encouraging students to enter teacher training.
+12. With today's more **efficient** contraception women can plan their families and careers.
+13. if anybody needs me, i'll be at the hardware **ore** buying chains.（如果有人找我 告诉他我去五金店买铁链了。）
+14. it's so **humid** and **damp** in here.
+15. The death penalty was never **restored**.
+16. The army has recently been brought in to **restore** order.
+17. Her bottom lip **quivered** and big tears rolled down her cheeks.
 
+Unit9:
 
-
-
-
-
-
-
-
-
-
+1. They said Western aid was needed to **cushion** the blows of vital reform.
+2. He left today on a **roundabout** route for Jordan and is also due soon in Egypt.
+3. The results **are due at** the end of the month.
+4. The topic of addiction remains something of a **taboo**.
+5. We each have a **notion** of just what kind of person we'd like to be.
+6. The Government is doing nothing to **intervene** in the crisis.
+7. the Social **Charter** of workers' rights.保障劳工权利的《社会宪章》
+8. What does this have to do with the **Constitution**？
+9. The threat of nuclear war has **diminished**.
+10. If I can be of service, I am **at your disposal**.
+11. Cook the rice according to instructions on the **packet**.
+12. 
 
 
 
@@ -2834,11 +2839,13 @@ Unit8：
   - enclosure、cassette、gown、foregoing、niece、soluble、corrode、
   - sway、vicinity、glorious、wholly、patron、reproach、idle、solidify、wagon、carpenter、revolve、impose、speculate、
   - endeavour、defer、symmetry、byproduct、grease、peanut、distinction、defy、descent、crush、
-
 - Unit8
-  - freshen、gracious（【上级】可爱又亲切）、synthesis、reciprocal、constitute、incur、rational、exceedingly、satellite、racket、reconcile、
+  - freshen、gracious（【上级】可爱又亲切）、synthesis、constitute、rational、satellite、racket、reconcile、
   - Soviet、bride、peninsula、pint(/paɪnt/)、diabetes、cattle、penicillin、irritate、deceive、
   - adverb、demonstration、subsidy、allowance、remainder、quiver、ore、nostalgic（/nə'stældʒɪk/怀旧的）、humid、raid、restore、
+- Unit9
+  - cushion、reinforce、roundabout、axe、fluctuate、bracket、retell、consent、taboo、totem、tattoo、notion、notation（标记系统）、resort、bureaucracy、hierarchy、earnest、
+  - quartz、monopoly、clue、charter、mischief、allege、van、diminish、tar、impetus、packet、stool、passport、
 
 
 
@@ -2846,23 +2853,40 @@ Unit8：
 
   
 
-  
+#   7.做阅读的笔记
+
+2011
+
+- text1
+  - The decision of ... to ...
+  - have done ... ever since ...
+  - favorable
+  - sober-sided critic
+  - with no air of ?
+  - It's not necessary for me to ... to ...
+  - boot up
+  - devote
+- text2
+  - the decision to ... to ... is ...
+  - depart as ...
+  - quit as ...
+  - the board of Hartford Financial Services Group,哈特福德金融服务集团董事会交谈
+  - reflect on 思考、丢人
+    - Reflect on life, meditate, enjoy yourself.
+    - Do you know how this reflects on me?
+  - aspirations  抱负、志向
+  - they were looking for a CEO **post**.
+  - scrutinize  详细查看、调查、
+  - pronouncement、pronunciation、
+  - turnover 营业额、(人口)流动率、turn over  翻转、颠覆
+  - opportunities will abound for aspiring leaders.
+  - The police **guarded against** the witness's letting out the secret. 
+  - manner  方法
+  - arrogant  傲慢的  That sounds arrogant, doesn't it?
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-# 7.马思瑞的口语
+# 8.马思瑞的口语
 
 - 带`er`结尾的单词，前面的辅音会被吞掉；如 center $\to$ cener、winter $\to$ winer
 - /ə/与/ʌ/之间发音没有区别，唯一的区别在于在句子中是否重读；如 about  /ə'baʊt/  、under /'ʌndɚ/
