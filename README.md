@@ -2792,7 +2792,15 @@ Unit9:
 9. The threat of nuclear war has **diminished**.
 10. If I can be of service, I am **at your disposal**.
 11. Cook the rice according to instructions on the **packet**.
-12. 
+12. I'm the one getting **nominated** as director.
+13. Mr Straw issued a **stern** warning to those who persist in violence.
+14. I wasn't badly hurt, but I injured my thigh and had to **limp**.
+15. Mr Weaver and his family have been **persecuted** by the authorities for their beliefs.
+16. I have about 20 year's magazines tied up in **bundles**.
+17. Suddenly Doreah was **tugging** at her elbow.
+18. French police are convinced that she was **tortured** and killed.
+19. This hospital is **affiliated** with that medical university.
+20. 
 
 
 
@@ -2846,6 +2854,7 @@ Unit9:
 - Unit9
   - cushion、reinforce、roundabout、axe、fluctuate、bracket、retell、consent、taboo、totem、tattoo、notion、notation（标记系统）、resort、bureaucracy、hierarchy、earnest、
   - quartz、monopoly、clue、charter、mischief、allege、van、diminish、tar、impetus、packet、stool、passport、
+  - circular、nominate、stern、tape、limp、reliance、sin、orchard、persecute、bundle、tug、discern、maltreat、torture、equator、affiliate、
 
 
 
